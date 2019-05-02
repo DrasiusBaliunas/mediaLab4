@@ -38,3 +38,9 @@ You can try to use these file servers:
   - HFS: http://www.rejetto.com/hfs/ or any other server.
 Proxy http to https:
   - https://technique.arscenic.org/lamp-linux-apache-mysql-php/apache-le-serveur-http/modules-complementaires/article/installer-et-configurer-le-module-ssl-pour-apache2?fbclid=IwAR1_nXNQlrMIdJ5tilVUyr45xeiA91yw21vhnMxWHnuvY01VTd2FVR_T2ao  
+  
+  
+  Done(Option A):
+  - Used WebRTC :(https://github.com/webrtc/samples/tree/gh-pages/src/content/getusermedia/filter) and additional filter like Canny Edge filter or any other non existing in the sample.
+  - Added custom filter  "mano_filtras"
+  - Tested on: Google Chrome - Version 73.0.3683.103 | Microsoft Edge 42.17134.1.0
